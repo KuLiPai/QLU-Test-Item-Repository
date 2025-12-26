@@ -1,6 +1,6 @@
 # 拼图满绩 (QLU-Test-Item-Repository)
 
-一款专为大学生（主要是齐鲁工业大学 QLU）设计的期末备考辅助应用。通过便捷的方式获取、浏览和下载历年真题与复习资料，助你轻松满绩！
+一款专为大学生（主要是齐鲁工业大学 QLU）设计的期末备考辅助应用。通过便捷的方式获取、浏览和下载历年真题与复习资料，助你顺利度过期末.
 
 ## ✨ 功能特性
 
@@ -53,4 +53,4 @@
 本项目采用 [Apache License 2.0](LICENSE) 开源许可证。
 
 ---
-Developed with ❤️ by Luminous & Trae AI.
+Developed with ❤️ by Luminous.
